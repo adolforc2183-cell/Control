@@ -1,0 +1,7 @@
+{
+  "appId": "com.controlremoto.samsung",
+  "appName": "Control TV",
+  "webDir": "www",
+  "server": { "androidScheme": "https", "cleartext": true },
+  "android": { "allowMixedContent": true }
+}
